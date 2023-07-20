@@ -1,4 +1,4 @@
-### Olá! Eu sou Edcarlos 👋
+### Olá! Eu sou Edcarlos 🙋‍♂️
 
 - 🔭 Me desenvolvendo como full stack
 - 🌱 Estudando Java
