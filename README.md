@@ -8,6 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark)](https://roadmap.sh)
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Eddie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eddie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
