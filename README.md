@@ -1,5 +1,6 @@
 ### Olá! Eu sou Edcarlos 🙋‍♂️
 
+- 😎 Backend
 - 🔭 Me desenvolvendo como full stack
 - 🌱 Estudando Java
 - 🙋‍♂️ Pronto para trabalhar em equipe
