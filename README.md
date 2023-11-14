@@ -8,7 +8,7 @@
 
   <p align="center">Contador de Visitas<br>
   <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eddie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Eddie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
   <img align="center" alt="Eddie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Eddie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eddie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
-  
+  #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
 #
