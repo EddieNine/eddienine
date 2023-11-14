@@ -5,8 +5,8 @@
 - 🌱 Estudando Java
 - 🙋‍♂️ Pronto para trabalhar em equipe
   ##
-
-  <p align="center">Contador de Visitas<br>
+  <h2 align="center">Contador de Visitas</h2><br>
+  <p align="center">
   <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eddie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
