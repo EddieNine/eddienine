@@ -8,7 +8,7 @@
   <h2 align="center">Contador de Visitas</h2><br>
   <p align="center">
   <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
-
+<h2 align="center">Linguagens mais Usadas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&layout=compact&theme=dark" alt="Linguagens mais Usadas">
 </div>
@@ -25,7 +25,7 @@
   <a href="https://wakatime.com/@itslaivy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
   </a>
-  <h2 align="center">Linguagens mais Usadas</h2>
+
 
 
 <div>
