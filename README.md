@@ -6,13 +6,11 @@
 - 🙋‍♂️ Pronto para trabalhar em equipe
   ##
 
-  Contador de Visitas
-  #
+  Contador de Visitas<br>
   ![Visitor Count](https://profile-counter.glitch.me/EddieNine/count.svg)
   #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 #
-<h2 align="center">Linguagens mais Usadas</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark)](https://roadmap.sh)
