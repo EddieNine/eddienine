@@ -21,6 +21,11 @@
   <a href="https://wakatime.com/@itslaivy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
   </a>
+  <h2 align="center">Linguagens mais Usadas</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&layout=compact&theme=dark" alt="Linguagens mais Usadas">
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 #
