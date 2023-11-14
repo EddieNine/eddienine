@@ -6,7 +6,7 @@
 - 🙋‍♂️ Pronto para trabalhar em equipe
   ##
 
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/EddieNine/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/EddieNine/count.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
