@@ -26,18 +26,13 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
   </a>
 
-
-
-<div>
+<h2 align="center">Extras</h2><br>
+<div> align="center">
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
 </div>
-<h2 align="center">Progresso no Roadmap</h2><br>
-<p align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a></p>
 
 #
-
-
 
   ##
 
