@@ -8,6 +8,10 @@
   <h2 align="center">Contador de Visitas</h2><br>
   <p align="center">
   <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&layout=compact&theme=dark" alt="Linguagens mais Usadas">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eddie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Eddie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
@@ -23,9 +27,7 @@
   </a>
   <h2 align="center">Linguagens mais Usadas</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&layout=compact&theme=dark" alt="Linguagens mais Usadas">
-</div>
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
 </div>
