@@ -15,8 +15,7 @@
   <img align="center" alt="Eddie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eddie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eddie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
-#
+</div><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
 #
