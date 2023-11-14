@@ -6,7 +6,8 @@
 - 🙋‍♂️ Pronto para trabalhar em equipe
   ##
 
-  Contador de Visitas #
+  Contador de Visitas
+  #
   ![Visitor Count](https://profile-counter.glitch.me/EddieNine/count.svg)
   #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
