@@ -16,14 +16,12 @@
   <img align="center" alt="Eddie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eddie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://wakatime.com/@itslaivy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
   </a>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
-#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 #
 
