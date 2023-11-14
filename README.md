@@ -20,7 +20,7 @@
   <img align="center" alt="Eddie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eddie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div><br>
-
+<h2 align="center">Meu tempo em cada linguagem</h2>
 <div align="center">
   <a href="https://wakatime.com/@itslaivy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
