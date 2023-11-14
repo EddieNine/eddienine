@@ -7,7 +7,7 @@
   ##
 
   <p align="center">Contador de Visitas<br>
-  <img href="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
+  <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
   #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddienine)](https://github.com/anuraghazra/github-readme-stats)
