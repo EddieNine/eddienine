@@ -29,7 +29,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
 </div>
-<p align="center">Progresso no Roadmap
+<p align="center">Progresso no Roadmap<br>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a></p>
 
 #
