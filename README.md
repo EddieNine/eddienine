@@ -1,8 +1,8 @@
 ### Olá! Eu sou Edcarlos 🙋‍♂️
 
-- 😎 Backend
-- 🔭 Me desenvolvendo como full stack
-- 🌱 Estudando Java
+- 😎 Backend & Cybersecurity
+- 🔭 Me desenvolvendo como Backend e Cybersegurança
+- 🌱 Estudando Java & Python
 - 🙋‍♂️ Pronto para trabalhar em equipe
   ##
   <h2 align="center">Contador de Visitas</h2>
