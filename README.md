@@ -29,7 +29,7 @@
 <h2 align="center">Extras</h2><br>
 <div align="center">
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/cyber-security?s=64a665c0ec22530247f1cf41" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 <img src="https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
