@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante de **Engenharia de Softwares**.
+🎓 Estudante de **Engenharia de Software**.
 🚀 Buscando crescimento constante como desenvolvedor e profissional de tecnologia  
-🔒 Entusiasta em **cibersegurança** e **Desenvolvimento**, apaixonado por aprender e explorar novas soluções  
+🔒 Entusiasta em **Cibersegurança** e **Desenvolvimento**, apaixonado por aprender e explorar novas soluções  
 🧠 Aprendendo com projetos, bootcamps e muitos desafios!
 
 ---
@@ -34,6 +34,7 @@
 - 🧩 **Java com Spring Boot**
 - 🗃️ **Banco de Dados Avançado**
 - 🔐 **Fundamentos de Segurança da Informação**
+- 🤖 **Machine Learning e IA**
 - 🤖 **Python para automação**
 - 📊 **Excel Profissional**
 - 🧠 **Soft Skills:** inteligência emocional, pensamento crítico, resolução de problemas...
