@@ -85,7 +85,7 @@
 
 ## 📫 Contato
 
-- 📩 **Email:** edcarlos.cruz.ti@gmail.com  
+- 📩 **Email:** believefixed@hotmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)
 
 ---
