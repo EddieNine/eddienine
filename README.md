@@ -83,10 +83,17 @@
 
 ---
 
-## 📫 Contato
+<h3>📲 Contato</h3>
 
 - 📩 **Email:** believefixed@hotmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)
+- <p>
+  <a href="https://www.youtube.com/@WebEddie-nf4ei" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-WebEddie-red?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <span style="font-size: 1.2rem;">💬 Discord: <code>eddie4875</code></span>
+</p>
+
 
 ---
 
