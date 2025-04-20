@@ -1,51 +1,70 @@
-### Olá! Eu sou Edcarlos 🙋‍♂️ 
+<h1 align="center">Olá, eu sou o Edcarlos 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Java;Estudante+de+TI+e+Cybersegurança;Apaixonado+por+Tecnologia&center=true&width=440&height=45&color=00ff91&vCenter=true&size=22" />
+</p>
 
 ---
-- 😎 Backend & Cybersecurity
-- 🔭 Me desenvolvendo como Backend e Cybersegurança
-- 🌱 Estudando Java & Python
-- 🙋‍♂️ Pronto para trabalhar em equipe
-  ##
-  <h2 align="center">Contador de Visitas</h2>
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/EddieNine/count.svg"</p>
-<h2 align="center">Linguagens mais Usadas</h2>
+
+## 🚀 Sobre mim
+
+🎓 Atualmente sou estudante de **Engenharia de Software**.
+💡 Curioso por natureza e apaixonado por resolver problemas com tecnologia.  
+👨‍💻 Em constante aprendizado nas áreas de **Java**, **MySQL**, **cibersegurança**, **Python** e muito mais.  
+📚 Participante do **Santander Bootcamp 2024**.
+
+---
+
+## 🛠️ Tecnologias que uso/estudo
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+</div>
+
+---
+
+## 🧠 Em aprendizado
+
+- Java Spring Boot
+- Banco de Dados Avançado
+- Estrutura de Dados e Algoritmos
+- Segurança da Informação
+- Python para automações
+- Excel do básico ao avançado
+
+---
+
+## ⚙️ Projetos em destaque
+
+🔸 [SnakeGame](https://github.com/EddieNine/SnakeGame) – Jogo da cobrinha feito com Java e Swing  
+🔸 Em breve: Aplicativo de ensino de programação em Java (`Java Tutor`)  
+🔸 Projeto de Chat em Java com interface personalizada  
+🔸 Projetos práticos de banco de dados com SQL
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddienine&layout=compact&theme=dark" alt="Linguagens mais Usadas">
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Eddie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Eddie-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
-  <img align="center" alt="Eddie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eddie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eddie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eddie-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Eddie-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Eddie-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
-<h2 align="center">Meu tempo em cada linguagem</h2>
-<div align="center">
-  <a href="https://wakatime.com/@itslaivy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddienine&layout=compact&theme=dark" alt="Atividade Semanal">
-  </a>
-
-<h2 align="center">Extras</h2><br>
-<div align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64a665c0ec22530247f1cf41?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=eddienine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddieNine&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieNine&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
-#
+---
 
-  ##
+## 📫 Vamos nos conectar?
 
+- 📧 **Email:** believefixed@hotmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)  
+- ☕ Sempre aberto a colaborações e projetos!
 
-<div> 
-  <a href="https://www.youtube.com/@WebEddie-nf4ei" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/KG6FsJMU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:believefixed@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edcarlos-cruz-853011280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
+<p align="center">
+  Obrigado pela visita! Volte sempre 😄
+</p>
