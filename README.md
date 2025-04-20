@@ -1,8 +1,9 @@
 <h1 align="center">Fala aí, eu sou o Edcarlos 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Estudante+de+TI+%26+Cyberseguran%C3%A7a;Desenvolvedor+Java+%F0%9F%90%8D;Futuro+Especialista+em+Tecnologia+%F0%9F%9A%80;Aprendizado+Constante+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software;Cyberseguran%C3%A7a;Desenvolvedor;Aprendizado+Constante" alt="Typing SVG" />
 </p>
+
 
 ---
 
