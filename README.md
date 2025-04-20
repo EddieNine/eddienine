@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Defesa Cibernética**  
+🎓 Estudante de **Engenharia de Softwares**.
 🚀 Buscando crescimento constante como desenvolvedor e profissional de tecnologia  
-🔒 Entusiasta em **cibersegurança**, apaixonado por aprender e explorar novas soluções  
+🔒 Entusiasta em **cibersegurança** e **Desenvolvimento**, apaixonado por aprender e explorar novas soluções  
 🧠 Aprendendo com projetos, bootcamps e muitos desafios!
 
 ---
@@ -44,12 +44,11 @@
 
 🟢 **[SnakeGame](https://github.com/EddieNine/SnakeGame)**  
 > Jogo da cobrinha em Java + Swing com pontuação e dificuldade ajustável  
-> ![Snake Screenshot](./screenshot.png)
 
 ⚙️ **Java Tutor** (em breve)  
 > App para ensino de programação em Java, com recompensas e desafios
 
-💬 **ChatApp em Java**  
+💬 **ChatApp em Java**  (em breve)
 > Aplicativo de chat com interface personalizada usando Java + Swing
 
 ---
@@ -74,6 +73,8 @@
 ## 🧠 Badges de Estudo
 
 ![Java](https://img.shields.io/badge/Java-EDC9FF?style=for-the-badge&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=HackTheBox&logoColor=white)
