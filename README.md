@@ -90,7 +90,7 @@
   <li>📩 **Email:** believefixed@hotmail.com</li>
   <li>💼 <a href="https://www.linkedin.com/in/edcarloscruz" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li>💬 Discord: <code>eddie4875</code></li>
-  <li>🎥 <a href="https://www.youtube.com/@WebEddie-nf4ei" target="_blank" rel="noopener noreferrer">@WebEddie</a></li>
+  <li>🎥 <a href="https://www.youtube.com/@WebEddie-nf4ei" target="_blank" rel="noopener noreferrer">Meu Canal no Youtube</a></li>
 </ul>
 
 
