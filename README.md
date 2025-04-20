@@ -87,12 +87,9 @@
 
 - 📩 **Email:** believefixed@hotmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)
-- <p>
-  <a href="https://www.youtube.com/@WebEddie-nf4ei" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-WebEddie-red?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <span style="font-size: 1.2rem;">💬 Discord: <code>eddie4875</code></span>
-</p>
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+- [![YouTube](https://img.shields.io/badge/YouTube-WebEddie-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WebEddie-nf4ei)
+
 
 
 ---
