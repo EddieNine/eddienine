@@ -1,70 +1,98 @@
-<h1 align="center">Olá, eu sou o Edcarlos 👋</h1>
+<h1 align="center">Fala aí, eu sou o Edcarlos 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Java;Estudante+de+TI+e+Cybersegurança;Apaixonado+por+Tecnologia&center=true&width=440&height=45&color=00ff91&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Estudante+de+TI+%26+Cyberseguran%C3%A7a;Desenvolvedor+Java+%F0%9F%90%8D;Futuro+Especialista+em+Tecnologia+%F0%9F%9A%80;Aprendizado+Constante+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
-🎓 Atualmente sou estudante de **Engenharia de Software**.
-💡 Curioso por natureza e apaixonado por resolver problemas com tecnologia.  
-👨‍💻 Em constante aprendizado nas áreas de **Java**, **MySQL**, **cibersegurança**, **Python** e muito mais.  
-📚 Participante do **Santander Bootcamp 2024**.
-
----
-
-## 🛠️ Tecnologias que uso/estudo
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</div>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Defesa Cibernética**  
+🚀 Buscando crescimento constante como desenvolvedor e profissional de tecnologia  
+🔒 Entusiasta em **cibersegurança**, apaixonado por aprender e explorar novas soluções  
+🧠 Aprendendo com projetos, bootcamps e muitos desafios!
 
 ---
 
-## 🧠 Em aprendizado
+## 🚀 Tecnologias & Ferramentas
 
-- Java Spring Boot
-- Banco de Dados Avançado
-- Estrutura de Dados e Algoritmos
-- Segurança da Informação
-- Python para automações
-- Excel do básico ao avançado
-
----
-
-## ⚙️ Projetos em destaque
-
-🔸 [SnakeGame](https://github.com/EddieNine/SnakeGame) – Jogo da cobrinha feito com Java e Swing  
-🔸 Em breve: Aplicativo de ensino de programação em Java (`Java Tutor`)  
-🔸 Projeto de Chat em Java com interface personalizada  
-🔸 Projetos práticos de banco de dados com SQL
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Em progresso
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddieNine&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieNine&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
+- 🧩 **Java com Spring Boot**
+- 🗃️ **Banco de Dados Avançado**
+- 🔐 **Fundamentos de Segurança da Informação**
+- 🤖 **Python para automação**
+- 📊 **Excel Profissional**
+- 🧠 **Soft Skills:** inteligência emocional, pensamento crítico, resolução de problemas...
 
 ---
 
-## 📫 Vamos nos conectar?
+## 💼 Projetos em destaque
 
-- 📧 **Email:** believefixed@hotmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)  
-- ☕ Sempre aberto a colaborações e projetos!
+🟢 **[SnakeGame](https://github.com/EddieNine/SnakeGame)**  
+> Jogo da cobrinha em Java + Swing com pontuação e dificuldade ajustável  
+> ![Snake Screenshot](./screenshot.png)
+
+⚙️ **Java Tutor** (em breve)  
+> App para ensino de programação em Java, com recompensas e desafios
+
+💬 **ChatApp em Java**  
+> Aplicativo de chat com interface personalizada usando Java + Swing
+
+---
+
+## 🏆 Conquistas e Participações
+
+- 🎯 Santander Bootcamp 2024 - Java + Spring
+- 📚 Projetos próprios de estudo em Java, MySQL e Cibersegurança
+- 🔎 Ativo em aprendizagem de algoritmos, lógica e desenvolvimento de sistemas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EddieNine&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieNine&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Badges de Estudo
+
+![Java](https://img.shields.io/badge/Java-EDC9FF?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=HackTheBox&logoColor=white)
+![Learning](https://img.shields.io/badge/Always%20Learning-22c55e?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+---
+
+## 📫 Contato
+
+- 📩 **Email:** edcarlos.cruz.ti@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)
 
 ---
 
 <p align="center">
-  Obrigado pela visita! Volte sempre 😄
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <b>Obrigado por visitar meu perfil!</b>  
+  <br>Vamos crescer juntos na tecnologia 🚀
 </p>
