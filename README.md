@@ -87,8 +87,9 @@
 
 - 📩 **Email:** believefixed@hotmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edcarloscruz)
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-- [![YouTube](https://img.shields.io/badge/YouTube-WebEddie-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WebEddie-nf4ei)
+- 💬 Discord: `eddie4875`
+- 🎥 YouTube: [@WebEddie](https://www.youtube.com/@WebEddie-nf4ei)
+
 
 
 
