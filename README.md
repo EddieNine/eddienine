@@ -47,6 +47,9 @@
 🟢 **[SnakeGame](https://github.com/EddieNine/SnakeGame)**  
 > Jogo da cobrinha em Java + Swing com pontuação e dificuldade ajustável  
 
+📚 **[To-Do List](https://github.com/EddieNine/To-Do-Project)**
+> Aplicativo de Tarefas To-Do com interface personalizada usando Java + Swing
+
 ⚙️ **Java Tutor** (em breve)  
 > App para ensino de programação em Java, com recompensas e desafios
 
